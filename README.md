@@ -1,9 +1,6 @@
 # Pawn to Don - Project Contribution Documentation
 PLAY GAME:  https://play.google.com/store/apps/details?id=com.funcell.pawndon&hl=en
 
-[Watch demo](demo/Movie_003.webm)
-
-
 
 This document outlines my core contributions to the "Pawn to Don" project, a Unity-based game leveraging a rich dialogue system, cinematic management, and diverse gameplay elements.
 
