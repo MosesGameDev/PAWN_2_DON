@@ -18,14 +18,14 @@ This document outlines my core contributions to the "Pawn to Don" project, a Uni
 - **Dialogue Integration:** Developed workflows to integrate authored dialogue trees into actual game logic, ensuring conversations flow between actors and react to game states via [Conversation.cs](https://github.com/umangfuncell/pawn_to_don/blob/d30a172a7bda030c33ea88fa56ef6b0dcd2f5fb2/Assets/Plugins/Pixel%20Crushers/Dialogue%20System/Scripts/MVC/Model/Data/Conversation.cs) and [DialogueEntry.cs](https://github.com/umangfuncell/pawn_to_don/blob/d30a172a7bda030c33ea88fa56ef6b0dcd2f5fb2/Assets/Plugins/Pixel%20Crushers/Dialogue%20System/Scripts/MVC/Model/Data/DialogueEntry.cs).
 - **Editor Extension:** Ensured custom editor workflows for efficiently outlining, organizing, and testing dialogue trees ([DialogueEditorWindowDialogueTreeSection.cs], `BuildDialogueTree()`, and related node/link structures).
 
-[Dialogue trees](demo/dialogue.png)]
+[Dialogue trees][(demo/dialogue.png)]
 
 ## Cutscene and Timeline Management
 
 - **Cutscene Manager:** Developed or integrated a Cutscene Manager system to trigger and control Unity Timeline sequences, synchronizing animations, events, and camera transitions based on story progression.
 - **Event Systems:** Linked dialogue and gameplay state changes to timeline triggers for seamless cinematic experiences.
 
-[Timeline](demo/timeine.png)]
+[Timeline][(demo/timeine.png)]
 
 ## Mini Games and Level Management
 
